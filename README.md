@@ -3,4 +3,4 @@
 
 |N° Trabajo|Síntesis|Entregado|Aprobado|
 |-|-|-|-|
-|0|Setup inicial|❌|❌|
+|0|Setup inicial|✅|❌|
